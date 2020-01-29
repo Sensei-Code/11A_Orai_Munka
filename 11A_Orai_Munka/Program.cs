@@ -10,6 +10,7 @@ namespace _11A_Orai_Munka
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Órai munkák!");
         }
     }
 }
